@@ -1,0 +1,1 @@
+# scanbot-test-ionic-capacitor
