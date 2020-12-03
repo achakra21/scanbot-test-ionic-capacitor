@@ -1,0 +1,36 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title class="ion-text-center">
+      Gallary Apps
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title class="ion-text-center" size="large">Gallary App</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-grid>
+    <ion-row>
+      <ion-col sizeLg="4" sizeMd="4" sizeXs="6" *ngFor="let image of getImageResult">
+        <img class="img-wrapper" [src]="image.url" expand="block" (click)="openImageDetail(image.url,image.timestamp)" />
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>
+
+<ion-footer>
+  <ion-toolbar>
+    <ion-button fill="clear" class="ion-float-left" (click)="reload()">
+      <ion-icon slot="start" color="primary" name="refresh-sharp" size="regular" mode="ios|md"></ion-icon>
+      Reload
+    </ion-button>
+    <ion-button fill="clear" class="ion-float-right" (click)="upload()">
+      <ion-icon slot="start" color="primary" name="add-circle-sharp" size="regular" mode="ios|md"></ion-icon>
+      Upload
+    </ion-button>
+  </ion-toolbar>
+</ion-footer>
