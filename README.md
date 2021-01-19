@@ -100,5 +100,5 @@ All the best,
 Scanbot Dev Team
 
 ## Here is my Solution loooks like below
-[![Demo]](https://imgur.com/EiacKQf)](https://drive.google.com/file/d/1DAOoWApoYSq_CBGr7JI5H15n4APGyrcJ/view?usp=sharing)
+![](ezgif.com-gif-maker.gif)
 
