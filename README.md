@@ -1,6 +1,6 @@
 # Scanbot Cross-Platform Mobile Developer Interview Challenge
 
-## The images must be arranged chronologically based on image timestamp i have not implemented in this solution .Hope you will not forgot while submitting.
+## The images must be arranged chronologically based on image timestamp i fotgot to implement in this solution.Hope you will not forgot while submitting.
 
 
 ## Context
