@@ -1,12 +1,6 @@
 # Scanbot Cross-Platform Mobile Developer Interview Challenge
 
-**CONFIDENTIAL - PLEASE DO NOT SHARE WITH ANYONE ELSE**
-
-Thank you for your interest in the Cross-Platform Mobile Developer position at ​[Scanbot / doo GmbH](https://scanbot.io)​, 
-and congratulations on the successful completion of the previous steps.
-
-Prior to your next technical interview, we kindly ask you to complete the assignment described below. 
-This small exercise is designed to assess your development skills and will enable us to conduct a streamlined interview.
+## The images must be arranged chronologically based on image timestamp i have not implemented in this solution .Hope you will not forgot while submitting.
 
 
 ## Context
