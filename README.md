@@ -100,5 +100,5 @@ All the best,
 Scanbot Dev Team
 
 ## Here is my Solution loooks like below
-[![Watch the video] (https://drive.google.com/file/d/1DAOoWApoYSq_CBGr7JI5H15n4APGyrcJ/view?usp=sharing)
+[![Demo]](https://imgur.com/EiacKQf)](https://drive.google.com/file/d/1DAOoWApoYSq_CBGr7JI5H15n4APGyrcJ/view?usp=sharing)
 
